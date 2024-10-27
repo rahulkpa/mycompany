@@ -1,38 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
-<p align="center"><h1 align="center">MYCOMPANY.GIT</h1></p>
-<p align="center">
-	<em>What a fascinating project!
-
-After analyzing the codebase details, I've come up with a few slogan ideas that capture the essence of your project:
-
-1. **"Empowering Connections, One User at a Time."**
-This slogan highlights the importance of user management and connection in your project.
-2. **"Building Bridges, Not Barriers."**
-This phrase emphasizes the idea of creating a seamless experience for users, bridging gaps between different components and systems.
-3. **"Unlocking Potential, One Profile at a Time."**
-This slogan focuses on the potential of each user profile being unlocked and managed within your project.
-4. **"Where Users Come First."**
-This simple yet powerful phrase puts the focus squarely on the users, emphasizing their importance in your project's architecture.
-
-Choose the one that resonates with you the most, or feel free to modify them to fit your vision!
-
-Remember, a great slogan should be memorable, easy to understand, and convey the essence of your project.</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/rahulkpa/mycompany.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/rahulkpa/mycompany.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/rahulkpa/mycompany.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/rahulkpa/mycompany.git?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-<br>
-
 ##  Table of Contents
 
 - [ Overview](#-overview)
@@ -341,16 +306,3 @@ Run the test suite using the following command:
 </p>
 </details>
 
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
